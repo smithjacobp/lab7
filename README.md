@@ -1,2 +1,1 @@
-# lab7
-lab7
+this is the repo readme
